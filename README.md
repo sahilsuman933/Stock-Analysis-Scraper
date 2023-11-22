@@ -1,4 +1,4 @@
-# Stock Analysis
+# Stock Analysis Scraper
 
 This project scrape 0.8 Million data with all the filters from stock analysis website with the interval of 15 minutes.
 
