@@ -29,4 +29,6 @@ This project scrape 0.8 Million data with all the filters from stock analysis we
 - Data will update automatically based on the trigger setup.
 - Manually refresh data by clicking **Insert Stock Analysis Data** under the **Stock Analysis** menu.
 
----
+
+## Working Screenshot
+![img.png](img.png)
