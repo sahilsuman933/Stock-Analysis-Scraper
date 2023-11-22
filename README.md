@@ -1,6 +1,6 @@
 # Stock Analysis Scraper
 
-This project scrape 0.8 Million data with all the filters from stock analysis website with the interval of 15 minutes.
+This project scrapes 0.8 Million data from stockanalysis.com along with all the filters and updates it on a Google Sheet every 15 minutes.
 
 **Setup Procedure:**
 
